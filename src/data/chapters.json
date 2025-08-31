@@ -1,0 +1,99 @@
+[
+  {
+    "id": "c1_objetivo",
+    "title": "1. Objetivo",
+    "content": [
+      "Apresentar as instruções necessárias para a realização da etapa de Análise Técnica, fornecendo orientações claras e precisas sobre o processo de análise técnica das solicitações recebidas da equipe de campo."
+    ]
+  },
+  {
+    "id": "c2_destina",
+    "title": "2. A quem se destina?",
+    "content": [
+      "Destina-se a todos os colaboradores da Engeselt envolvidos no serviço de Análise Técnica da Elaboração de Projetos em Rede de Distribuição."
+    ]
+  },
+  {
+    "id": "c3_siglas",
+    "title": "3. Siglas e definições",
+    "content": [
+      "eControl: Sistema de Controle e Gerenciamento de Solicitações da Engeselt.",
+      "EO: Electric Office.",
+      "SIAGO: Sistema de acompanhamento e gerenciamento de obras de distribuição.",
+      "SIATE: Sistema de atendimento ao cliente.",
+      "KML: Formato de arquivo que permite a visualização de dados geográficos.",
+      "Teams, eProject, WhatsApp: ferramentas citadas no documento."
+    ]
+  },
+  {
+    "id": "c4_responsabilidades",
+    "title": "4. Responsabilidades",
+    "content": [
+      "Responsabilidade do Agente da Análise Técnica: Realizar análise aprofundada de itens técnicos e de documentos dos arquivos liberados da etapa de Levantamento de Campo.",
+      "Responsabilidade do Supervisor Técnico: Acompanhar recebimento das solicitações e orientar profissionais.",
+      "Responsabilidade do Coordenador de Projetos: Definir prazos de entrega e propor melhorias.",
+      "Responsabilidade do Gerente Operacional: Acompanhar dimensionamento da equipe e gerir recursos."
+    ]
+  },
+  {
+    "id": "c5_recursos",
+    "title": "5. Recursos necessários",
+    "content": [
+      "Insumos: cadeira, mesa, papelaria.",
+      "Equipamentos: notebook, teclado, mouse, monitor, impressora.",
+      "Softwares: Microsoft Teams, eControl, SharePoint, Office, Citrix (EO, SIAGO, SIATE), Google Earth, leitor de PDF, compactador, Sync, eProject."
+    ]
+  },
+  {
+    "id": "c6_seguranca",
+    "title": "6. Requisitos de segurança",
+    "content": [
+      "Acessórios e insumos de escritório: suportes ajustáveis, protetores de quina, mouse pad, apoio lombar.",
+      "Requisitos de Segurança no Ambiente de Trabalho: treinamento brigada, iluminação, ginástica laboral, sinalização de saída de emergência, extintores."
+    ]
+  },
+  {
+    "id": "c7_analise",
+    "title": "7. Análise Técnica de Projetos de Distribuição - Visão Geral",
+    "content": [
+      "Atividades iniciam-se mediante recebimento de solicitações da etapa de Levantamento de Campo via eControl.",
+      "O Agente da Análise Técnica deve revisar itens técnicos e documentais, apontando inconsistências e abrindo impedimentos quando necessário.",
+      "Se tudo conforme, a solicitação segue para Desenho Técnico (IT-OPE_004)."
+    ]
+  },
+  {
+    "id": "c7_1_tipos",
+    "title": "7.1 Tipos de Projeto",
+    "content": [
+      "Extensão de Rede Urbana/Rural; Melhoria de Rede; Segurança (afastamento/deslocamento de poste); Projeto de Terceiros; Nível de Tensão; Solicitações judiciais; Plano de Negócio."
+    ]
+  },
+  {
+    "id": "c7_2_documentos",
+    "title": "7.2 Documentações Obrigatórias",
+    "content": [
+      "Autorização de Passagem; Declaração de Carga; Autorização de Seccionamento e Aterramento da Cerca; Notificação de Risco; Ordem de Serviço; Termo de Responsabilidade."
+    ]
+  },
+  {
+    "id": "c7_3_processo",
+    "title": "7.3 Processo de Análise do Projeto",
+    "content": [
+      "Pesquisar solicitação e baixar arquivos de campo (eControl).",
+      "Análise de documentações especiais no SIATE (Estudo de Alimentador, Proteção, ASPO).",
+      "Verificação de obra no local via EO (sobreposição de projetos).",
+      "Análise de carregamento de transformador (BI CTMD).",
+      "Arruamento indefinido, segundo ponto de medição, loteamento particular, ocupação transversal/longitudinal.",
+      "Análise improdutiva: motivos e checklist de verificação.",
+      "Inconsistência/Reprova de levantamento: abrir ocorrência no eControl.",
+      "Finalizando a análise técnica: anexar arquivos e aprovar para desenho."
+    ]
+  },
+  {
+    "id": "c8_final",
+    "title": "8. Finalização e anexos",
+    "content": [
+      "Após a análise: anexar fotos, documentos e levantamento de campo na pasta de Análise Técnica do eControl e aprovar a solicitação para a etapa seguinte (Desenho Técnico)."
+    ]
+  }
+]
